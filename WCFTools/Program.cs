@@ -6,7 +6,7 @@ namespace WCFTools
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello Johannes!");
+			Console.WriteLine ("Hello Johannes Velmans!");
 		}
 	}
 }
