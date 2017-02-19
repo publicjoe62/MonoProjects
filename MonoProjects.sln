@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFTools", "WCFTools\WCFTools.csproj", "{A439BB7A-48CA-49A9-98F8-3CF2C484A87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A439BB7A-48CA-49A9-98F8-3CF2C484A87B}.Debug|x86.ActiveCfg = Debug|x86
+		{A439BB7A-48CA-49A9-98F8-3CF2C484A87B}.Debug|x86.Build.0 = Debug|x86
+		{A439BB7A-48CA-49A9-98F8-3CF2C484A87B}.Release|x86.ActiveCfg = Release|x86
+		{A439BB7A-48CA-49A9-98F8-3CF2C484A87B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
