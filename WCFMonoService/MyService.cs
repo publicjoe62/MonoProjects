@@ -6,7 +6,7 @@ namespace WCFMonoService
 	{
 		public String GetData()
 		{
-			return "Hello WCF over mono";
+			return "Hello WCF over mono!";
 		}
 	}
 }
