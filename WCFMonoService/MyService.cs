@@ -6,7 +6,7 @@ namespace WCFMonoService
 	{
 		public String GetData()
 		{
-			return "RestApi over mono!";
+			return "TMS RestApi call!";
 		}
 	}
 }
